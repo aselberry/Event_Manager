@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Test event 1",
+        "date": "2024-03-06",
+        "organizer": {
+            "name": "fdev",
+            "email": "fdev@example.com"
+        },
+        "status": "active",
+        "type": "event",
+        "joiners": [
+            {
+                "name": "Aselka",
+                "email": "test@test.com",
+                "country": "Hungary"
+            }
+        ],
+        "location": "Budapest, Hungary",
+        "max_attendees": 100
+    },
+    {
+        "id": 526647,
+        "name": "Nurbiike",
+        "date": "string",
+        "organizer": {
+            "name": "Aselka",
+            "email": "string"
+        },
+        "status": "abnorm",
+        "type": "string",
+        "joiners": [
+            {
+                "name": "Aselka",
+                "email": "string",
+                "country": "string"
+            }
+        ],
+        "location": "string",
+        "max_attendees": 0
+    },
+    {
+        "id": 346,
+        "name": "Nurbiikewdk",
+        "date": "2022-09-11",
+        "organizer": {
+            "name": "string",
+            "email": "string"
+        },
+        "status": "abnorm",
+        "type": "string",
+        "joiners": [
+            {
+                "name": "Aselka",
+                "email": "string",
+                "country": "string"
+            }
+        ],
+        "location": "string",
+        "max_attendees": 0
+    },
+    {
+        "id": 3489271,
+        "name": "stringbjc",
+        "date": "string",
+        "organizer": {
+            "name": "string",
+            "email": "string"
+        },
+        "status": "string",
+        "type": "in-person",
+        "joiners": [
+            {
+                "name": "Nurbiikewdkscal",
+                "email": "string",
+                "country": "string"
+            }
+        ],
+        "location": "string",
+        "max_attendees": 0
+    },
+    {
+        "id": 3489271,
+        "name": "stringwdvkbjl",
+        "date": "string",
+        "organizer": {
+            "name": "string",
+            "email": "string"
+        },
+        "status": "string",
+        "type": "string",
+        "joiners": [
+            {
+                "name": "a lcalsv",
+                "email": "string",
+                "country": "string"
+            }
+        ],
+        "location": "string",
+        "max_attendees": 0
+    },
+    {
+        "id": 6879,
+        "name": "Meet Up",
+        "date": "2024-04-21",
+        "organizer": {
+            "name": "Asel Temiralieva",
+            "email": "asel@gmail.com"
+        },
+        "status": "approved",
+        "type": "in-person",
+        "joiners": [
+            {
+                "name": "Adil",
+                "email": "test1@test.com",
+                "country": "Kyrgyzstan"
+            }
+        ],
+        "location": "string",
+        "max_attendees": 0
+    },
+    {
+        "id": 45,
+        "name": "ELTE",
+        "date": "2021-07-31",
+        "organizer": {
+            "name": "Elte Dean",
+            "email": "dean@inf.elte.hu"
+        },
+        "status": "finished",
+        "type": "in-person",
+        "joiners": [
+            {
+                "name": "Jack",
+                "email": "jack@inf.elte.hu",
+                "country": "Hungary"
+            }
+        ],
+        "location": "Budapest",
+        "max_attendees": 67
+    }
+]
